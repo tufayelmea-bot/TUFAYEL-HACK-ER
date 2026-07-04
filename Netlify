@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script async src="pub-9994760294426235" crossorigin="anonymous"></script>
+<meta charset="UTF-8">
+<title>TUFAYEL HACK ER </title>
+<link rel="icon" type="image/png" href="logo.png">
+<!-- Font Awesome সিডিএন আইকনগুলোর জন্য -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<style>
+body {
+    background: linear-gradient(135deg, #1f4037, #232526, #414345);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Top Box */
+.box {
+    border: 3px solid #ff4757;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+/* Profile Image */
+.logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #ff4757;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+}
+
+/* --- আকর্ষণীয় প্রিমিয়াম ডাউনলোড বাটন স্টাইল --- */
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px; /* আইকন এবং লেখার মাঝের দূরত্ব */
+    background: linear-gradient(145deg, #ffe066, #b39700); /* প্রিমিয়াম গোল্ডেন গ্রেডিয়েন্ট */
+    color: #000; 
+    padding: 35px 20px;
+    margin: 35px 48px;
+    border-radius: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 42px; /* বড় লেখার সাইজ */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4), inset 0 2px 5px rgba(255, 255, 255, 0.5);
+    transition: all 0.3s ease;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.6);
+}
+
+/* বাটনের ভেতরের ডাউনলোড আইকন স্টাইল */
+.btn i {
+    font-size: 50px;
+    color: #111;
+}
+
+/* মাউস নিলে বা টাচ করলে সুন্দর অ্যানিমেশন */
+.btn:hover {
+    background: linear-gradient(145deg, #fff099, #ccad00);
+    transform: translateY(-3px); /* সামান্য ওপরে উঠবে */
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+}
+
+.btn:active {
+    transform: translateY(4px); /* ক্লিক করলে নিচে নামবে */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.small {
+    color: #e0e0e0;
+    font-size: 35px;
+}
+
+/* --- Social Media Buttons Styling --- */
+.social-section {
+    margin-top: 60px;
+    padding: 30px 20px;
+    border-top: 3px dashed rgba(255, 255, 255, 0.5);
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.social-title {
+    font-size: 50px;
+    margin-bottom: 35px;
+    color: #FFF;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+
+.social-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+    padding: 35px;
+    margin: 30px 48px;
+    border-radius: 14px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 45px;
+    transition: 0.2s;
+}
+
+.telegram {
+    background: #0088cc;
+    box-shadow: 0 8px 0 #005580;
+}
+.telegram:active {
+    transform: translateY(6px);
+    box-shadow: 0 2px 0 #002233;
+}
+
+.youtube {
+    background: #ff0000;
+    box-shadow: 0 8px 0 #b30000;
+}
+.youtube:active {
+    transform: translateY(6px);
+    box-shadow: 0 2px 0 #550000;
+}
+
+.facebook {
+    background: #1877f2;
+    box-shadow: 0 8px 0 #0c4cb3;
+}
+.facebook:active {
+    transform: translateY(6px);
+    box-shadow: 0 2px 0 #052255;
+}
+
+.social-btn i {
+    font-size: 50px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<img src="logo.png" class="logo">
+<h2>TUFAYEL BOSS </h2>
+<p class="small">@TUFAYEL HACK ER</p>
+<p class="small">
+প্রিয় ইউজার আমাদের ওয়েবসাইটে আপনাকে স্বাগতম আশা করি আপনারা সবসময় আমাদের সাথে থাকবেন ধন্যবাদ
+</p>
+</div>
+
+<!-- প্রতিটি বাটনে ডাউনলোড আইকন যুক্ত করা হয়েছে এবং আঙ্গুলের ইশারা রিমুভ করা হয়েছে -->
+
+
+<a href="https://mygp.li/HJ8Xp3pfq4b" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i>১ জিবি এমবি ফ্রি</a>
+<a href="https://www.mediafire.com/file/3gi25jvgewyi08d/TUFAYEL+HACK+ER_.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> OB54 UPDATE HACK DOWNLOAD 3.Jul</a>
+<a href="https://www.mediafire.com/file/1e7lj8mjl5wmeyg/DRIP+CILENT+MOBILE+V3.apks/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> DRIP CILENT MOBILE V3</a>
+<a href="https://www.mediafire.com/file/kxa2twgl0z1gmp7/ANKIT+HUTNER+V9+????????.xapk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> OB54 UPDATE NEW HACK</a>
+<a href="https://zefoy.com/" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> TIK TOK ID LIKE YOU INCREASE ( 1 )</a>
+<a href="https://nreer.com/" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> TIK TOK ID LIKE YOU INCREASE ( 2 )</a>
+<a href="https://www.mediafire.com/file/3r2p7lnwgyg3gp4/Drip+Client_নতুন+এস+আর+সি+ড্রপ+ক্লাইন্ট.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> DRIP CLIENT SRC OB 54 </a>
+<a href="https://mt-manager.en.softonic.com/android" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> MT_-_MANAGER</a>
+<a href="https://unlockffbeta.com/" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> SARVAR UNLOCK </a>
+<a href="https://www.mediafire.com/file/lizynhfkzy3da4o/OB54+VVIP+PROXY+SERVER.7z/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> OB54 VVIP PROXY SERVER.7z</a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> PC 2026 </a>
+<a href="https://www.mediafire.com/file/m3h70fxgwcjjyce/live+sports+tv+match.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> বিশ্বকাপ খেলার অ্যাপ ডাউনলোড করুন 2026 </a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADFgkAAhfoeUZ7LUDHYu7IZRYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> NEW TUFAYEL HACK VIP. 10000PP</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADfw0AAo8oaEY12a3ZZx9gJBYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> মাথা নষ্ট করা প্যানেল</a>
+<a href="https://www.mediafire.com/file/u0fw599ux4wjk5t/Medkit+Jump+And+Window+Animation+Glitch+File.zip/file?dkey=qss1jxmi9zh&r=1406" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> Medkit Jump And</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADdAgAAo8oYEbKPqy3k4n_sBYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> TM PANEL X TUFAYEL HACK ER V2</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADURMAApOiOEY0yIaK71wZqRYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> TUFAYEL HACK ER VIP</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADeAoAApoqOUbPZ9qRIIopMhYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> TM PANEL X TUFAYEL HACK ER V1</a>
+<a href="https://www.mediafire.com/file/0xtnm2ko630sgle/PAPAJI+NOOB+FFH4X+V16+APK+MODZ.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> PAPAJI+NOOB+FFH4X+V16+APK+MODZ</a>
+<a href="https://www.mediafire.com/file/80p6uqoonn45ddm/Free_Fire_Advance_68.53.0_2019112736.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> Free Fire Advance OB 53 NEW</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADpBEAAjUgEEbpkpCSSgt8EBYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> VIP HACK V.1</a>
+<a href="https://www.mediafire.com/file/wwhqc53kp95yfnf/TheKingCheats_V223.apks/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> THE KING CHEATS V223</a>
+<a href="https://play.google.com/store/apps/details?id=flar2.homebutton" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> স্মার্ট ফোন</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQAD5AkAAoOECEYRMgSt4TrHhxYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> Cap Cut Pro</a>
+<a href="https://www.mediafire.com/file/a8hgtle1jb4d1i3/Remini_3.7.1299.202520143.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> Remini_V1088</a>
+<a href="https://www.mediafire.com/file/555jhgl3j8bm4s0/TheKingCheats_V222.apks/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> THE KING CHEATS V222</a>
+<a href="https://www.mediafire.com/file/xv6t5qwxau3l6i1/BRV6_V8A.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> BR MODS V6</a>
+<a href="https://www.mediafire.com/file/39hvecqbgee2lrv/TheKingCheats_V221.apks/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> THE KING CHEATS V221</a>
+<a href="https://www.mediafire.com/file/nho977hnr6lbncb/TUFAYEL_HACK_ER.apk/file" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> GALLERY HACK</a>
+<a href="https://app.netlify.com/projects/tufayelhacker/overview" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> ওয়েবসাইট লিংক</a>
+<a href="https://t.me/TUFAYELHACKER_BOT?start=BQADAQADihMAApOiOEbpZb6GWtj9qBYE" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> HEX Editor</a>
+<a href="https://www.xv-videos1.com" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> xxx ভিডিও দেখবা ( ১ )</a>
+<a href="https://www.xnxx.tv" class="btn"><i class="fa-solid fa-cloud-arrow-down"></i> XXX ভিডিও দেখবা ( ২ )</a>
+
+<!-- --- সোশ্যাল মিডিয়া সেকশন --- -->
+<div class="social-section">
+    <div class="social-title">FOLLOW MY OTHER SOCIAL MEDIA</div>
+    
+    <a href="https://t.me/+ifkzToDTTFliMWNl" class="social-btn telegram">
+        <i class="fab fa-telegram-plane"></i> Join Now Telegram
+    </a>
+    
+    <a href="https://www.youtube.com/@TUFAYELHACKER" class="social-btn youtube">
+        <i class="fab fa-youtube"></i> Subscribe Now YouTube
+    </a>
+    
+    <a href="https://www.facebook.com/share/1KRNdH8RjX/" class="social-btn facebook">
+        <i class="fab fa-facebook-f"></i> Follow Now Facebook
+    </a>
+</div>
+
+<script src="https://pl30185106.effectivecpmnetwork.com/e9/39/29/e93929da851ecbb6078d108e86907385.js"></script>
+
+<script>
+  atOptions = {
+    'key' : '824fad93412d0a5b0cbc415860e09e74',
+    'format' : 'iframe',
+    'height' : 300,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/824fad93412d0a5b0cbc415860e09e74/invoke.js"></script>
+
+<script>
+  atOptions = {
+    'key' : 'b3d9c4a0bd4acf389a2e7360c702a87a',
+    'format' : 'iframe',
+    'height' : 600,
+    'width' : 160,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/b3d9c4a0bd4acf389a2e7360c702a87a/invoke.js"></script>
+
+<script>
+  atOptions = {
+    'key' : '7b3a139472275702b1ad9df99d64c493',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/7b3a139472275702b1ad9df99d64c493/invoke.js"></script>
+
+<script>
+  atOptions = {
+    'key' : '4a23eb73a55e1b0e760e522aa3e2a862',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/4a23eb73a55e1b0e760e522aa3e2a862/invoke.js"></script>
+
+<script>
+  atOptions = {
+    'key' : '113b8d83c8d4f117fe7cdec6d37b0032',
+    'format' : 'iframe',
+    'height' : 60,
+    'width' : 468,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/113b8d83c8d4f117fe7cdec6d37b0032/invoke.js"></script>
+
+<script>
+  atOptions = {
+    'key' : 'bbc8bced6ec75fd3c816970cb3c33821',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bbc8bced6ec75fd3c816970cb3c33821/invoke.js"></script>
+
+<script async="async" data-cfasync="false" src="https://pl30198739.effectivecpmnetwork.com/4a1cdb58be7cac836ac3b50ed8fac164/invoke.js"></script>
+<div id="container-4a1cdb58be7cac836ac3b50ed8fac164"></div>
+
+<script src="https://pl30198740.effectivecpmnetwork.com/a2/60/45/a260454f598465afdcbdfe4c6d806a48.js"></script>
+
+https://www.effectivecpmnetwork.com/pzi7qt286?key=43338effaf5536e6810176a1afb82e8f
+<script src="https://pl30164534.effectivecpmnetwork.com/e8/3c/87/e83c87c7212b041b02d9a6a04c1fb21f.js"></script>
+
+<script src="https://pl30185106.effectivecpmnetwork.com/e9/39/29/e93929da851ecbb6078d108e86907385.js"></script>
+    
+    <script src="https://pl30164534.effectivecpmnetwork.com/e8/3c/87/e83c87c7212b041b02d9a6a04c1fb21f.js"></script>
+
+</body>
+</html>
