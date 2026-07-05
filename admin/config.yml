@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: tufayelmea-bot/TUFAYEL-HACK-ER
+  branch: main
+
+media_folder: "admin/images"
+public_folder: "/admin/images"
+
+collections:
+  - name: "site_data"
+    label: "Website Control"
+    files:
+      - file: "DATA.json"
+        label: "Link & Title Settings"
+        name: "settings"
+        fields:
+          - { label: "Site Title", name: "site_title", widget: "string" }
+          - { label: "Button 1 Name", name: "button1_name", widget: "string" }
+          - { label: "Button 1 Link", name: "button1_link", widget: "string" }
+          - { label: "Button 2 Name", name: "button2_name", widget: "string" }
+          - { label: "Button 2 Link", name: "button2_link", widget: "string" }
